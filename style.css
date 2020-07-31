@@ -1,0 +1,12 @@
+img {
+	max-width: 100%;
+	height: :auto;
+}
+p{
+	background-color: rgb(153, 204, 153);
+	font-size : 25px;
+	font-weight: bold;
+	text-align: center;
+	border: solid 2px rgb(255, 51, 0);
+	margin-bottom: 50px;
+}
